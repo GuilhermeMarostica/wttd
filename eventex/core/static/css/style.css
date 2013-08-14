@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+body {
+	margin: 0;
+	font-family: tahoma;
+	font-size: 15px;
+	text-align: center;
+	line-height: 40px;
+    background-color:#D2D3D5;
+}
+
+#tudo {
+		width: 100%;
+		padding: 20px;
+		background-color:#D2D3D5;
+		margin: 0;
+}
+
+h1 {
+	font-family: Arial;
+	color:red;
+}
+
