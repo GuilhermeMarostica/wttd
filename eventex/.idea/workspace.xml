@@ -5,23 +5,25 @@
     <ignored path="eventex.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/tests.py" changelist="b7fef0d9-fc55-4caf-a2af-f9ad721e7b28" time="1375361682266" ignored="false" />
-    <file path="/urls.py" changelist="b7fef0d9-fc55-4caf-a2af-f9ad721e7b28" time="1375797592532" ignored="false" />
-    <file path="/views.py" changelist="b7fef0d9-fc55-4caf-a2af-f9ad721e7b28" time="1375578182586" ignored="false" />
+    <file path="/urls.py" changelist="b7fef0d9-fc55-4caf-a2af-f9ad721e7b28" time="1377522972997" ignored="false" />
+    <file path="/views.py" changelist="b7fef0d9-fc55-4caf-a2af-f9ad721e7b28" time="1377526002643" ignored="false" />
     <file path="/subscription_form.html" changelist="b7fef0d9-fc55-4caf-a2af-f9ad721e7b28" time="1376942302675" ignored="false" />
     <file path="/forms.py" changelist="b7fef0d9-fc55-4caf-a2af-f9ad721e7b28" time="1377107923481" ignored="false" />
     <file path="/base.html" changelist="b7fef0d9-fc55-4caf-a2af-f9ad721e7b28" time="1375450849410" ignored="false" />
     <file path="/index.html" changelist="b7fef0d9-fc55-4caf-a2af-f9ad721e7b28" time="1375796871299" ignored="false" />
     <file path="/style.css" changelist="b7fef0d9-fc55-4caf-a2af-f9ad721e7b28" time="1375451259344" ignored="false" />
-    <file path="/__init__.py" changelist="b7fef0d9-fc55-4caf-a2af-f9ad721e7b28" time="1376922869583" ignored="false" />
+    <file path="/__init__.py" changelist="b7fef0d9-fc55-4caf-a2af-f9ad721e7b28" time="1377524489876" ignored="false" />
     <file path="/test_forms.py" changelist="b7fef0d9-fc55-4caf-a2af-f9ad721e7b28" time="1377108053259" ignored="false" />
-    <file path="/test_models.py" changelist="b7fef0d9-fc55-4caf-a2af-f9ad721e7b28" time="1376939244368" ignored="false" />
-    <file path="/models.py" changelist="b7fef0d9-fc55-4caf-a2af-f9ad721e7b28" time="1376938825430" ignored="false" />
+    <file path="/test_models.py" changelist="b7fef0d9-fc55-4caf-a2af-f9ad721e7b28" time="1377542253647" ignored="false" />
+    <file path="/models.py" changelist="b7fef0d9-fc55-4caf-a2af-f9ad721e7b28" time="1377542314319" ignored="false" />
     <file path="/test_views_subscribe.py" changelist="b7fef0d9-fc55-4caf-a2af-f9ad721e7b28" time="1376942226839" ignored="false" />
     <file path="/test_views_detail.py" changelist="b7fef0d9-fc55-4caf-a2af-f9ad721e7b28" time="1375797136150" ignored="false" />
     <file path="/subscription_detail.html" changelist="b7fef0d9-fc55-4caf-a2af-f9ad721e7b28" time="1375577950849" ignored="false" />
-    <file path="/admin.py" changelist="b7fef0d9-fc55-4caf-a2af-f9ad721e7b28" time="1376937087187" ignored="false" />
+    <file path="/admin.py" changelist="b7fef0d9-fc55-4caf-a2af-f9ad721e7b28" time="1377545237187" ignored="false" />
     <file path="/settings.py" changelist="b7fef0d9-fc55-4caf-a2af-f9ad721e7b28" time="1376421863377" ignored="false" />
     <file path="/test_admin.py" changelist="b7fef0d9-fc55-4caf-a2af-f9ad721e7b28" time="1376924547831" ignored="false" />
+    <file path="/test_views_speaker_detail.py" changelist="b7fef0d9-fc55-4caf-a2af-f9ad721e7b28" time="1377538230335" ignored="false" />
+    <file path="/speaker_detail.html" changelist="b7fef0d9-fc55-4caf-a2af-f9ad721e7b28" time="1377524281051" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,40 +57,72 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_forms.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/subscriptions/tests/test_forms.py">
+      <file leaf-file-name="admin.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/core/admin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="72" selection-start="1045" selection-end="1045" vertical-scroll-proportion="0.22849463">
-              <folding />
+            <state line="12" column="41" selection-start="324" selection-end="324" vertical-scroll-proportion="0.8068182">
+              <folding>
+                <element signature="e#16#48#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="forms.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/subscriptions/forms.py">
+      <file leaf-file-name="test_views_speaker_detail.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/tests/test_views_speaker_detail.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="58" selection-start="1502" selection-end="1502" vertical-scroll-proportion="0.0">
+            <state line="40" column="50" selection-start="1458" selection-end="1458" vertical-scroll-proportion="0.0">
               <folding>
-                <element signature="e#16#40#0" expanded="true" />
+                <element signature="e#16#48#0" expanded="true" />
+                <marker date="1377538230800" expanded="true" signature="174:1229" placeholder="..." />
+                <marker date="1377538230800" expanded="true" signature="1269:1459" placeholder="..." />
+                <marker date="1377538230800" expanded="true" signature="1299:1459" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/subscriptions/models.py">
+        <entry file="file://$PROJECT_DIR$/core/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="52" selection-start="307" selection-end="307" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="24" column="25" selection-start="752" selection-end="752" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#15#43#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_views_subscribe.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/subscriptions/tests/test_views_subscribe.py">
+      <file leaf-file-name="__init__.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/tests/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="54" selection-start="849" selection-end="849" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="3" column="26" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#16#44#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_models.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/tests/test_models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="48" column="64" selection-start="2052" selection-end="2052" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#16#48#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="22" selection-start="162" selection-end="162" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#16#51#0" expanded="true" />
+                <marker date="1377526249160" expanded="true" signature="239:390" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -103,14 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/core/static/css/style.css" />
-        <option value="$PROJECT_DIR$/subscriptions/templates/subscriptions/subscription_detail.html" />
-        <option value="$PROJECT_DIR$/subscriptions/views.py" />
-        <option value="$PROJECT_DIR$/core/templates/index.html" />
-        <option value="$PROJECT_DIR$/urls.py" />
-        <option value="$PROJECT_DIR$/subscriptions/tests/test_views_detail.py" />
-        <option value="$PROJECT_DIR$/settings.py" />
-        <option value="$PROJECT_DIR$/subscriptions/tests/__init__.py" />
         <option value="$PROJECT_DIR$/subscriptions/tests/test_admin.py" />
         <option value="$PROJECT_DIR$/subscriptions/admin.py" />
         <option value="$PROJECT_DIR$/subscriptions/models.py" />
@@ -119,14 +145,21 @@
         <option value="$PROJECT_DIR$/subscriptions/tests/test_views_subscribe.py" />
         <option value="$PROJECT_DIR$/subscriptions/forms.py" />
         <option value="$PROJECT_DIR$/subscriptions/tests/test_forms.py" />
+        <option value="$PROJECT_DIR$/core/urls.py" />
+        <option value="$PROJECT_DIR$/core/templates/core/speaker_detail.html" />
+        <option value="$PROJECT_DIR$/core/tests/__init__.py" />
+        <option value="$PROJECT_DIR$/core/views.py" />
+        <option value="$PROJECT_DIR$/core/tests/test_views_speaker_detail.py" />
+        <option value="$PROJECT_DIR$/core/tests/test_models.py" />
+        <option value="$PROJECT_DIR$/core/models.py" />
+        <option value="$PROJECT_DIR$/core/admin.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="534" />
-    <option name="y" value="53" />
-    <option name="width" value="807" />
-    <option name="height" value="555" />
+    <option name="x" value="161" />
+    <option name="width" value="1050" />
+    <option name="height" value="380" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -197,33 +230,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="subscriptions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eventex" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eventex" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="subscriptions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="subscriptions" />
+              <option name="myItemId" value="core" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -234,11 +241,11 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -331,19 +338,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="534" y="53" width="807" height="555" extended-state="0" />
+    <frame x="161" y="0" width="1050" height="380" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32949308" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24929178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3147914" sideWeight="0.6710098" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23684211" sideWeight="0.6710098" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -426,50 +433,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/core/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="40" selection-start="113" selection-end="113" vertical-scroll-proportion="0.14782609" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/subscriptions/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/subscriptions/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/subscriptions/tests/test_views_detail.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="75" selection-start="463" selection-end="463" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/subscriptions/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="16" selection-end="16" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="13" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/subscriptions/tests/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="25" selection-start="147" selection-end="147" vertical-scroll-proportion="0.14782609" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/subscriptions/tests/test_models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="45" column="4" selection-start="1511" selection-end="1511" vertical-scroll-proportion="0.5483092" />
@@ -480,20 +443,6 @@
         <state line="20" column="74" selection-start="748" selection-end="748" vertical-scroll-proportion="0.82125604" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/subscriptions/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="56" selection-start="943" selection-end="943" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/subscriptions/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="52" selection-start="307" selection-end="307" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/subscriptions/templates/subscriptions/subscription_form.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="28" selection-start="195" selection-end="195" vertical-scroll-proportion="0.044854883">
@@ -501,26 +450,110 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/subscriptions/tests/test_views_subscribe.py">
+    <entry file="file://$PROJECT_DIR$/subscriptions/tests/test_forms.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="54" selection-start="849" selection-end="849" vertical-scroll-proportion="0.0">
+        <state line="27" column="72" selection-start="1045" selection-end="1045" vertical-scroll-proportion="0.10215054">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/subscriptions/forms.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="58" selection-start="1502" selection-end="1502" vertical-scroll-proportion="0.0">
+        <state line="45" column="58" selection-start="1502" selection-end="1502" vertical-scroll-proportion="0.045698926">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subscriptions/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="52" selection-start="307" selection-end="307" vertical-scroll-proportion="0.22311828">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subscriptions/tests/test_views_subscribe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="54" selection-start="849" selection-end="849" vertical-scroll-proportion="0.04735376">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="7" selection-start="161" selection-end="161" vertical-scroll-proportion="0.15151516">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/templates/core/speaker_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="25" selection-start="132" selection-end="132" vertical-scroll-proportion="0.1271028">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="22" selection-start="162" selection-end="162" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#16#40#0" expanded="true" />
+            <element signature="e#16#51#0" expanded="true" />
+            <marker date="1377526249160" expanded="true" signature="239:390" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/subscriptions/tests/test_forms.py">
+    <entry file="file://$PROJECT_DIR$/core/tests/test_views_speaker_detail.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="72" selection-start="1045" selection-end="1045" vertical-scroll-proportion="0.22849463">
+        <state line="40" column="50" selection-start="1458" selection-end="1458" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#16#48#0" expanded="true" />
+            <marker date="1377538230800" expanded="true" signature="174:1229" placeholder="..." />
+            <marker date="1377538230800" expanded="true" signature="1269:1459" placeholder="..." />
+            <marker date="1377538230800" expanded="true" signature="1299:1459" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/tests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="26" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#16#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/tests/test_models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="64" selection-start="2052" selection-end="2052" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#16#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="25" selection-start="752" selection-end="752" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#15#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subscriptions/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="56" selection-start="943" selection-end="943" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="41" selection-start="324" selection-end="324" vertical-scroll-proportion="0.8068182">
+          <folding>
+            <element signature="e#16#48#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
